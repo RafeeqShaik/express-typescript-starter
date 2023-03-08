@@ -1,0 +1,10 @@
+{
+  "env": {
+    "PORT": 80,
+    "API_PREFIX": "/api/v1",
+    "DATABASE": "mongodb+srv://hr-app:KWZgUPCuYaptFyV7@cluster0.786onyl.mongodb.net/omni-team-hr-app",
+    "JWT-SECRET": "G+KbPeShVmYq3t6w9z$C&E)H@McQfTjW",
+    "OTP_EXPIRY_IN_SECONDS": 1000,
+    "NODE_ENV": "development"
+  }
+}
